@@ -1,0 +1,8 @@
+
+<job id="IncludeExample">
+
+   <script language="VBScript">
+Set oShell = CreateObject ("WScript.Shell")
+oShell.run "cmd.exe"
+   </script>
+</job>
